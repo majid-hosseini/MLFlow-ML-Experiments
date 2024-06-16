@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/majid/Documents/MLOps/Complete-MLOps-BootCamp/MLFlow-Manage-ML-Experiments/mlruns/684068351919901875/fcade96a585b49878c6a84eced451700/artifacts
+end_time: 1718468957452
+entry_point_name: ''
+experiment_id: '684068351919901875'
+lifecycle_stage: active
+run_id: fcade96a585b49878c6a84eced451700
+run_name: dashing-mare-154
+run_uuid: fcade96a585b49878c6a84eced451700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718468949436
+status: 3
+tags: []
+user_id: majid

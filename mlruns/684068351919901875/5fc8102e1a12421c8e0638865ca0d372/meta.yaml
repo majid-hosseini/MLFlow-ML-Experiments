@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/majid/Documents/MLOps/Complete-MLOps-BootCamp/MLFlow-Manage-ML-Experiments/mlruns/684068351919901875/5fc8102e1a12421c8e0638865ca0d372/artifacts
+end_time: 1718468783410
+entry_point_name: ''
+experiment_id: '684068351919901875'
+lifecycle_stage: active
+run_id: 5fc8102e1a12421c8e0638865ca0d372
+run_name: hilarious-crab-14
+run_uuid: 5fc8102e1a12421c8e0638865ca0d372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718468775054
+status: 3
+tags: []
+user_id: majid

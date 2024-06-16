@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/majid/Documents/MLOps/Complete-MLOps-BootCamp/MLFlow-Manage-ML-Experiments/mlruns/602573671916506145/55d087c8f4264663bb56792730a64810/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '602573671916506145'
+lifecycle_stage: active
+run_id: 55d087c8f4264663bb56792730a64810
+run_name: valuable-stork-167
+run_uuid: 55d087c8f4264663bb56792730a64810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718470297740
+status: 1
+tags: []
+user_id: majid
